@@ -1,0 +1,137 @@
+#include <iostream>
+#include <cstdlib>
+#include <fstream>
+#include <sstream>
+#include <string>
+#include <cstring>
+#include <cstdio>
+#include <string>
+#include <vector>
+#include <map>
+#include <random>
+#include <cassert>
+#include <time.h>
+#include <math.h>
+#include <ctype.h>
+#include <list>
+#include <functional>
+#include <algorithm>
+
+#include "TFile.h"
+#include "TTree.h"
+#include "TH1F.h"
+#include "TH2F.h"
+#include "TCanvas.h"
+#include "TChain.h"
+
+
+void write_cal_params()
+{
+
+	ifstream SX3_calib_params ("SX3_res_strip_cal_params.txt");
+
+	if(!SX3_calib_params)
+	{
+		cout << "Cannot open Super X3 calibration file, you doughnut..." << endl;
+		return 1;
+	}
+
+	//=====================READING IN THE CALIBRATION FILE=========================
+	while(getline(SX3_calib_params,line))
+	{
+		//temp_string2 = line.at(0);
+
+		//If the barrel detector is Downstream
+		if(!line.empty() && flag == "SuperX3 D")
+		{	
+			if(line.compare(0,3,"Res") == 0)
+			{			
+				temp_string2 = line.at(12);
+				istringstream(temp_string2) >> strip_no;			
+
+				istringstream in(line);
+				in >> temp_string3 >> temp_string3 >> temp_string3 >> offX >> offY >> slopeGM >> slopeEC >> LERP >> RERP;				
+
+
+
+			}
+		}
+
+		//If the barrel detector is Upstream
+		if(!line.empty() && flag == "SuperX3 U")
+		{	
+			if(line.compare(0,3,"Res") == 0)
+			{			
+				temp_string2 = line.at(12);
+				istringstream(temp_string2) >> strip_no;			
+
+				istringstream in(line);
+				in >> temp_string3 >> temp_string3 >> temp_string3 >> offX >> offY >> slopeGM >> slopeEC >> LERP >> RERP;				
+
+
+
+			}
+		}
+
+		if(!line.empty())
+		{
+			if(line.compare(0,9,"SuperX3 D") == 0)
+			{
+				flag = "SuperX3 D";
+
+				//cout << line.size() << endl;
+
+				//finds the corresponding detector number
+				temp_string = line.at(line.size()-1);
+				istringstream(temp_string) >> C_det;
+
+				if(line.size()==11)
+				{
+					C_det = C_det+10;
+				}
+			}
+
+			if(line.compare(0,9,"SuperX3 U") == 0)
+			{
+				flag = "SuperX3 U";
+
+				//cout << line.size() << endl;
+
+				//finds the corresponding detector number
+				temp_string = line.at(line.size()-1);
+				istringstream(temp_string) >> C_det;
+
+				if(line.size()==11)
+				{
+					C_det = C_det+10;
+				}
+			}
+		}
+	}
+
+	return;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

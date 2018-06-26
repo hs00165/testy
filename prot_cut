@@ -1,0 +1,20 @@
+{
+//========= Macro generated from object: protons/Graph
+//========= by ROOT version6.08/04
+   
+   TCutG *cutg = new TCutG("protons",9);
+   cutg->SetVarX("dE_E");
+   cutg->SetVarY("");
+   cutg->SetTitle("Graph");
+   cutg->SetFillColor(1);
+   cutg->SetPoint(0,2.16944,2.11341);
+   cutg->SetPoint(1,3.19997,2.17955);
+   cutg->SetPoint(2,4.56809,1.4066);
+   cutg->SetPoint(3,7.23326,0.943657);
+   cutg->SetPoint(4,10.9823,0.637785);
+   cutg->SetPoint(5,6.45148,0.579917);
+   cutg->SetPoint(6,3.66194,1.01393);
+   cutg->SetPoint(7,2.13391,1.99354);
+   cutg->SetPoint(8,2.16944,2.11341);
+   cutg->Draw("");
+}

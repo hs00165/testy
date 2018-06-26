@@ -1,0 +1,10 @@
+Columns are: "Strip #"     "Offset X"     "Offset Y"     "Slope (gain match)"    "Slope (energy calibration)"     "Left Edge Relative Pos."     "Right edge Relative Pos."
+
+
+Res. Strip #1   134.654   148.003   1.00376   0.003794   -100   -100
+Res. Strip #2   129.451   124.094   1.04075   0.00361565   -100   -100
+Res. Strip #3   123.187   134.988   0.919768   0.00341659   -100   -100
+Res. Strip #4   121.989   132.178   1.00216   0.00327606   -100   -100
+
+calib_Det2_Strip1
+Res. Strip #1   108.426   100.466   0.986148   0.00323689   -100   -100

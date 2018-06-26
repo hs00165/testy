@@ -1,0 +1,74 @@
+FINE CALIBRATION, CREATED:
+
+Columns are: Strip #     Offset X     Offset Y     Slope (gain match)    Slope (energy calibration)     Left Edge Relative Pos.     Right edge Relative Pos.
+
+
+SuperX3 D
+Res. Strip #1   -nan   -nan   0.998753   -nan   -100   -100
+Res. Strip #2   -nan   -nan   1.05213   -nan   -100   -100
+Res. Strip #3   -nan   -nan   0.907308   -nan   -100   -100
+Res. Strip #4   -nan   -nan   1.00949   -nan   -100   -100
+
+SuperX3 D
+Res. Strip #1   -nan   -nan   0.986148   -nan   -100   -100
+Res. Strip #2   -nan   -nan   1.03403   -nan   -100   -100
+Res. Strip #3   -nan   -nan   1.01627   -nan   -100   -100
+Res. Strip #4   -nan   -nan   1.04911   -nan   -100   -100
+
+SuperX3 D
+Res. Strip #1   -nan   -nan   0.995558   -nan   -100   -100
+Res. Strip #2   -nan   -nan   1.05369   -nan   -100   -100
+Res. Strip #3   -nan   -nan   0.974153   -nan   -100   -100
+Res. Strip #4   -nan   -nan   1.02534   -nan   -100   -100
+
+SuperX3 D
+Res. Strip #1   -nan   -nan   1.00617   -nan   -100   -100
+Res. Strip #2   -nan   -nan   1.00356   -nan   -100   -100
+Res. Strip #3   -nan   -nan   1.03692   -nan   -100   -100
+Res. Strip #4   -nan   -nan   1.02511   -nan   -100   -100
+
+SuperX3 D
+Res. Strip #1   -nan   -nan   1.02428   -nan   -100   -100
+Res. Strip #2   -nan   -nan   1.07685   -nan   -100   -100
+Res. Strip #3   -nan   -nan   1.02828   -nan   -100   -100
+Res. Strip #4   -nan   -nan   1.02118   -nan   -100   -100
+
+SuperX3 D
+Res. Strip #1   -nan   -nan   1.01432   -nan   -100   -100
+Res. Strip #2   -nan   -nan   1.03305   -nan   -100   -100
+Res. Strip #3   -nan   -nan   1.04228   -nan   -100   -100
+Res. Strip #4   -nan   -nan   1.07504   -nan   -100   -100
+
+SuperX3 D
+Res. Strip #1   -nan   -nan   1.01786   -nan   -100   -100
+Res. Strip #2   -nan   -nan   1.00716   -nan   -100   -100
+Res. Strip #3   -nan   -nan   1.03604   -nan   -100   -100
+Res. Strip #4   -nan   -nan   1.03133   -nan   -100   -100
+
+SuperX3 D
+Res. Strip #1   -nan   -nan   0.98129   -nan   -100   -100
+Res. Strip #2   -nan   -nan   1.01125   -nan   -100   -100
+Res. Strip #3   -nan   -nan   0.982394   -nan   -100   -100
+Res. Strip #4   -nan   -nan   1.13531   -nan   -100   -100
+
+SuperX3 D
+Res. Strip #1   -nan   -nan   0.963458   -nan   -100   -100
+Res. Strip #2   -nan   -nan   1.00465   -nan   -100   -100
+Res. Strip #3   -nan   -nan   0.984144   -nan   -100   -100
+Res. Strip #4   -nan   -nan   1.06134   -nan   -100   -100
+
+SuperX3 D
+Res. Strip #1   -nan   -nan   1.07741   -nan   -100   -100
+Res. Strip #2   -nan   -nan   1.0356   -nan   -100   -100
+Res. Strip #3   -nan   -nan   1.01976   -nan   -100   -100
+Res. Strip #4   -nan   -nan   1.02415   -nan   -100   -100
+
+SuperX3 D
+Res. Strip #2   -nan   -nan   0.970622   -nan   -100   -100
+Res. Strip #3   -nan   -nan   0.995113   -nan   -100   -100
+
+SuperX3 D
+Res. Strip #1   -nan   -nan   1.04389   -nan   -100   -100
+Res. Strip #2   -nan   -nan   1.02819   -nan   -100   -100
+Res. Strip #3   -nan   -nan   1.00556   -nan   -100   -100
+Res. Strip #4   -nan   -nan   1.04666   -nan   -100   -100

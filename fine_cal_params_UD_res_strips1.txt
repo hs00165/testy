@@ -1,0 +1,145 @@
+Columns are: "Strip #"     "Offset X"     "Offset Y"     "Slope (gain match)"    "Slope (energy calibration)"     "Left Edge Relative Pos."     "Right edge Relative Pos."
+
+
+Res. Strip #1   134.654   148.003   1.00376   0.003794   -100   -100
+Res. Strip #2   129.451   124.094   1.04075   0.00361565   -100   -100
+Res. Strip #3   123.187   134.988   0.919768   0.00341659   -100   -100
+Res. Strip #4   121.989   132.178   1.00216   0.00327606   -100   -100
+
+calib_Det10_Strip1
+Res. Strip #1   129.614   118.812   1.07741   0.00302313   -100   -100
+
+calib_Det10_Strip2
+Res. Strip #2   131.846   129.003   1.0356   0.00312358   -100   -100
+
+calib_Det10_Strip3
+Res. Strip #3   116.203   139.827   1.01976   0.00311209   -100   -100
+
+calib_Det10_Strip4
+Res. Strip #4   129.265   122.385   1.02415   0.00304911   -100   -100
+
+calib_Det11_Strip2
+Res. Strip #2   112.144   130.682   0.970622   0.00326899   -100   -100
+
+calib_Det11_Strip3
+Res. Strip #3   125.838   128.05   0.995113   0.00320039   -100   -100
+
+calib_Det12_Strip1
+Res. Strip #1   116.338   129.021   1.04389   0.00306507   -100   -100
+
+calib_Det12_Strip2
+Res. Strip #2   127.74   134.674   1.02819   0.00301491   -100   -100
+
+calib_Det12_Strip3
+Res. Strip #3   127.037   128.339   1.00556   0.0031263   -100   -100
+
+calib_Det12_Strip4
+Res. Strip #4   132.461   133.895   1.04666   0.00294769   -100   -100
+
+calib_Det1_Strip1
+Res. Strip #1   111.121   102.69   0.998195   0.00323422   -100   -100
+
+calib_Det1_Strip2
+Res. Strip #2   133.239   138.611   1.05213   0.00323067   -100   -100
+
+calib_Det1_Strip3
+Res. Strip #3   130.274   127.53   0.907308   0.00344311   -100   -100
+
+calib_Det1_Strip4
+Res. Strip #4   123.309   123.266   1.00949   0.00324604   -100   -100
+
+calib_Det2_Strip1
+Res. Strip #1   108.426   100.466   0.986148   0.00323689   -100   -100
+
+calib_Det2_Strip2
+Res. Strip #2   122.354   120.005   1.03403   0.00340531   -100   -100
+
+calib_Det2_Strip3
+Res. Strip #3   99.2564   113.243   1.01627   0.00327545   -100   -100
+
+calib_Det2_Strip4
+Res. Strip #4   115.937   109.66   1.04911   0.00325988   -100   -100
+
+calib_Det3_Strip1
+Res. Strip #1   110.072   103.635   0.995558   0.00324013   -100   -100
+
+calib_Det3_Strip2
+Res. Strip #2   114.294   112.119   1.05369   0.00307507   -100   -100
+
+calib_Det3_Strip3
+Res. Strip #3   118.402   108.502   0.974153   0.00356805   -100   -100
+
+calib_Det3_Strip4
+Res. Strip #4   115.753   141.06   1.02534   0.00320056   -100   -100
+
+calib_Det4_Strip1
+Res. Strip #1   91.6063   107.376   1.00617   0.0031348   -100   -100
+
+calib_Det4_Strip2
+Res. Strip #2   119.988   126.674   1.00356   0.00324872   -100   -100
+
+calib_Det4_Strip3
+Res. Strip #3   136.58   141.746   1.03692   0.00317858   -100   -100
+
+calib_Det4_Strip4
+Res. Strip #4   116.356   181.383   1.02511   0.00329641   -100   -100
+
+calib_Det5_Strip1
+Res. Strip #1   129.164   122.345   1.02428   0.00310987   -100   -100
+
+calib_Det5_Strip2
+Res. Strip #2   118.492   113.723   1.07685   0.00336332   -100   -100
+
+calib_Det5_Strip3
+Res. Strip #3   144.949   158.82   1.02828   0.00331063   -100   -100
+
+calib_Det5_Strip4
+Res. Strip #4   133.864   139.059   1.02118   0.00326381   -100   -100
+
+calib_Det6_Strip1
+Res. Strip #1   104.713   106.526   1.01432   0.00312644   -100   -100
+
+calib_Det6_Strip2
+Res. Strip #2   121.501   133.283   1.03305   0.00316596   -100   -100
+
+calib_Det6_Strip3
+Res. Strip #3   129.768   132.797   1.04228   0.0032806   -100   -100
+
+calib_Det6_Strip4
+Res. Strip #4   130.727   140.917   1.07504   0.00310623   -100   -100
+
+calib_Det7_Strip1
+Res. Strip #1   125.628   124.128   1.01786   0.00316445   -100   -100
+
+calib_Det7_Strip2
+Res. Strip #2   132.731   136.577   1.00716   0.00324521   -100   -100
+
+calib_Det7_Strip3
+Res. Strip #3   133.703   128.799   1.03604   0.00316615   -100   -100
+
+calib_Det7_Strip4
+Res. Strip #4   124.194   122.952   1.03133   0.00315872   -100   -100
+
+calib_Det8_Strip1
+Res. Strip #1   127.086   133.932   0.98129   0.00323731   -100   -100
+
+calib_Det8_Strip2
+Res. Strip #2   135.903   127.243   1.01125   0.00322703   -100   -100
+
+calib_Det8_Strip3
+Res. Strip #3   124.348   124.294   0.982394   0.00317154   -100   -100
+
+calib_Det8_Strip4
+Res. Strip #4   117.39   120.997   1.13531   0.0029138   -100   -100
+
+calib_Det9_Strip1
+Res. Strip #1   130.33   131.62   0.963458   0.00327494   -100   -100
+
+calib_Det9_Strip2
+Res. Strip #2   128.849   128.438   1.00465   0.00325924   -100   -100
+
+calib_Det9_Strip3
+Res. Strip #3   133.171   137.419   0.984144   0.0032514   -100   -100
+
+calib_Det9_Strip4
+Res. Strip #4   125.606   124.446   1.06134   0.00306431   -100   -100

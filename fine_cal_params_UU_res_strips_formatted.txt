@@ -1,0 +1,7 @@
+Columns are: "Strip #"     "Offset X"     "Offset Y"     "Slope (gain match)"    "Slope (energy calibration)"     "Left Edge Relative Pos."     "Right edge Relative Pos."
+
+SuperX3 U1
+Res. Strip #1   40.346   60.114   0.998135   1   -100   -100
+Res. Strip #2   138.201   135.042   1.03645   1   -100   -100
+Res. Strip #3   132.221   140.456   0.913761   1   -100   -100
+Res. Strip #4   129.997   134.802   1.00136   1   -100   -100

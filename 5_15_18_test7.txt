@@ -1,0 +1,112 @@
+FINE CALIBRATION, CREATED:
+
+Columns are: Strip #     Offset X     Offset Y     Slope (gain match)    Slope (energy calibration)     Left Edge Relative Pos.     Right edge Relative Pos.
+
+BB10 U1
+1      -inf      inf
+2      -inf      inf
+3      -inf      inf
+4      -inf      inf
+5      -inf      inf
+6      -inf      inf
+7      -inf      inf
+8      -inf      inf
+BB10 U2
+1      -inf      inf
+2      -inf      inf
+3      -inf      inf
+4      -inf      inf
+5      -inf      inf
+6      -inf      inf
+7      -inf      inf
+8      -inf      inf
+BB10 U3
+1      -inf      inf
+2      -inf      inf
+3      -inf      inf
+4      -inf      inf
+5      -inf      inf
+6      -inf      inf
+7      -inf      inf
+8      -inf      inf
+BB10 U4
+1      -inf      inf
+2      -inf      inf
+3      -inf      inf
+4      -inf      inf
+5      -inf      inf
+6      -inf      inf
+7      -inf      inf
+8      -inf      inf
+BB10 U5
+1      -inf      inf
+2      -inf      inf
+3      -inf      inf
+4      -inf      inf
+5      -inf      inf
+6      -inf      inf
+7      -inf      inf
+8      -inf      inf
+BB10 U6
+1      -inf      inf
+2      -inf      inf
+3      -inf      inf
+4      -inf      inf
+5      -inf      inf
+6      -inf      inf
+7      -inf      inf
+8      -inf      inf
+BB10 U7
+1      -inf      inf
+2      -inf      inf
+3      -inf      inf
+4      -inf      inf
+5      -inf      inf
+6      -inf      inf
+7      -inf      inf
+8      -inf      inf
+BB10 U8
+1      -inf      inf
+2      -inf      inf
+3      -inf      inf
+4      -inf      inf
+5      -inf      inf
+6      -inf      inf
+7      -inf      inf
+8      -inf      inf
+BB10 U9
+1      -inf      inf
+2      -inf      inf
+3      -inf      inf
+4      -inf      inf
+5      -inf      inf
+6      -inf      inf
+7      -inf      inf
+8      -inf      inf
+BB10 U10
+1      -inf      inf
+2      -inf      inf
+3      -inf      inf
+4      -inf      inf
+5      -inf      inf
+6      -inf      inf
+7      -inf      inf
+8      -inf      inf
+BB10 U11
+1      -inf      inf
+2      -inf      inf
+3      -inf      inf
+4      -inf      inf
+5      -inf      inf
+6      -inf      inf
+7      -inf      inf
+8      -inf      inf
+BB10 U12
+1      -inf      inf
+2      -inf      inf
+3      -inf      inf
+4      -inf      inf
+5      -inf      inf
+6      -inf      inf
+7      -inf      inf
+8      -inf      inf

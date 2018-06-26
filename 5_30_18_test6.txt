@@ -1,0 +1,29 @@
+FINE CALIBRATION, CREATED:
+
+Columns are: Strip #     Offset X     Offset Y     Slope (gain match)    Slope (energy calibration)     Left Edge Relative Pos.     Right edge Relative Pos.
+
+HARRY's X3 CALIBRATION
+X3 dE1
+1      0.00405      0.0421667
+X3 dE2
+1      0.00388758      -0.119762
+X3 dE3
+1      0.00405      0.0151667
+X3 dE4
+1      0.00405      -0.119833
+X3 dE5
+1      0.00405      -0.227833
+X3 dE6
+1      0.00405      -0.0388333
+X3 dE7
+1      0.00405      -0.281833
+X3 dE8
+1      0.00404746      -0.179274
+X3 dE9
+1      0.00422551      -0.437749
+X3 dE10
+1      0.00405      -0.146833
+X3 dE11
+1      0.00388704      -0.239923
+X3 dE12
+1      0.00422551      -0.127878
